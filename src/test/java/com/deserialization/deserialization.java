@@ -46,6 +46,10 @@ public class deserialization {
 	    .then().assertThat().statusCode(200).extract().response().asString();
 	
    	System.out.println(resp);
+   	System.out.println("fvifnncfn");
+	System.out.println("fvifnncfnmvmvj");
+	System.out.println("fviffjdfj");
+	System.out.println("fvifnrmrjrj");
 	
 	}
 
