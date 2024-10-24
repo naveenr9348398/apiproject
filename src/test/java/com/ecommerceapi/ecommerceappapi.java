@@ -101,7 +101,11 @@ spec(req3);
 
 delspec.when().delete("api/ecom/product/delete-product/{productId}").then().log().all();
 
-
+System.out.println("fvifnrmrjrj");
+System.out.println("fvifnrmrjrj");
+System.out.println("fvifnrmrjrj");
+System.out.println("fvifnrmrjrj");
+System.out.println("fvifnrmrjrj");
 
 
 

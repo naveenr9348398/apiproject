@@ -50,6 +50,10 @@ public class deserialization {
 	System.out.println("fvifnncfnmvmvj");
 	System.out.println("fviffjdfj");
 	System.out.println("fvifnrmrjrj");
+	System.out.println("fvifnrmrjrj");
+	System.out.println("fvifnrmrjrj");
+	System.out.println("fvifnrmrjrj");
+	System.out.println("fvifnrmrjrj");
 	
 	}
 
